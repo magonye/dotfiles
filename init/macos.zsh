@@ -59,7 +59,7 @@ defaults write com.apple.finder WarnOnEmptyTrash -bool false
 ###############################################################################
 
 # Tiny Dock!
-defaults write com.apple.dock tilesize -int 20
+defaults write com.apple.dock tilesize -int 16
 
 # System Preferences > Dock > Automatically hide and show the Dock:
 defaults write com.apple.dock autohide -bool true
