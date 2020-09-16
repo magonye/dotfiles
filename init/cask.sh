@@ -11,6 +11,7 @@ alfred
 bartender
 bettertouchtool
 chatmate-for-whatsapp
+docker
 dropbox
 flux
 font-consolas-for-powerline

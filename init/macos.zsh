@@ -103,7 +103,7 @@ defaults write com.apple.dock wvous-tr-modifier -int 0
 ###############################################################################
 
 # disable "natural" (touchscreen-style) scrolling
-defaults write NSGlobalDomain com.apple.swipescrolldirection -bool true
+defaults write NSGlobalDomain com.apple.swipescrolldirection -bool false
 
 # Set a blazingly fast keyboard repeat rate
 defaults write NSGlobalDomain KeyRepeat -int 2
