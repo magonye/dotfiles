@@ -18,6 +18,7 @@ font-consolas-for-powerline
 font-fira-mono-for-powerline
 font-inconsolata-for-powerline
 font-source-code-pro-for-powerline
+fork
 google-chrome-beta
 google-chrome-canary
 intellij-idea
@@ -27,6 +28,7 @@ logitech-options
 moom
 roon
 slack
+spectacle
 swinsian
 the-unarchiver
 transmission
