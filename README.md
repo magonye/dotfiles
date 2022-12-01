@@ -29,7 +29,7 @@ Install Homesick first
 
 Time to set up my ssh config
 
-    homesick clone https://jordi9@...
+    homesick clone https://magonye@...
     homesick link ssh-home
 
 Fix file permissions
@@ -39,7 +39,7 @@ Fix file permissions
 
 Now it's time to clone this `dotfiles` as a Castle
 
-    homesick clone git@github.com:jordi9/dotfiles.git
+    homesick clone git@github.com:magonye/dotfiles.git
     homesick link dotfiles
 
 This `dotfiles` at the same time is an antigen plugin.
@@ -55,7 +55,7 @@ If you want to load more antigen plugins, but depending on the laptop (eg: work)
 
 For example, private scripts or configs with licences
 
-    homesick clone git@github.com:jordi9/private-dotfiles.git
+    homesick clone git@github.com:magonye/private-dotfiles.git
     homesick link private-dotfiles
 
 ## Upgrade zsh
