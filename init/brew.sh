@@ -28,5 +28,5 @@ wget
 "
 for f in $formulae; do
   echo ">> $f"
-  brew install $f
+  arch -arm64 brew install $f
 done
