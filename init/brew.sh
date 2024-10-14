@@ -16,6 +16,7 @@ git-recent
 grep
 heroku
 htop
+meetingbar
 pv
 rbenv
 ruby-build
